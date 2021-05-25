@@ -1,1 +1,0 @@
-# python_movement_detection_using_openCV
